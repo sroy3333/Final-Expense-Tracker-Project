@@ -154,7 +154,7 @@ Create a `.env` file in the root directory:
 cp .env.example .env
 ```
 
-Fill in your values:
+Sample values:
 
 ```env
 # Server
